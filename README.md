@@ -8,8 +8,12 @@ This project is meant for the Fall 2017 edition of Harvey Mudd College's CS121 c
 ![Register](/screenshots/register.png "Register")
 Register!
 
+
+
 ![Login/Logout](/screenshots/login.png "Login/Logout")
 Logging in and out!
+
+
 
 ![Adding a new post](/screenshots/add.png "Adding a new post")
 Add new posts!
